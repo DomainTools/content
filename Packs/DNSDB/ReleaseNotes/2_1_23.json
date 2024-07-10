@@ -1,0 +1,4 @@
+{
+    "breakingChanges": true,
+    "breakingChangesNotes": "<ul><li>The `useproxy` parameter now is rename to `proxy`.</li></ul>Make sure to check and update your integration instance settings."
+}
