@@ -18,10 +18,9 @@ configuration:
   type: 8
   required: false
 - display: Use system proxy settings
-  name: useproxy
-  defaultvalue: "true"
-  type: 8
+  name: proxy
   required: false
+  type: 8
 description: >
   Farsight Security DNSDB
 
