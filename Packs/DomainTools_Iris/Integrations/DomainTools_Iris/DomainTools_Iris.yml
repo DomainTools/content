@@ -2410,6 +2410,10 @@ script:
       description: Parsed Whois data.
     - contextPath: Domain.WhoisRecords
       description: Full Whois record.
+  - arguments:
+    description: The Domaintools NOD feeds provides list of newly domains.
+    name: domaintools-nod-feeds
+    outputs:
   dockerimage: demisto/vendors-sdk:1.0.0.100383
   runonce: false
   script: '-'
