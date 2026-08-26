@@ -18,9 +18,12 @@
     "group": 2,
     "hidden": false,
     "openEnded": false,
-    "associatedToAll": true,
+    "associatedTypes": [
+        "DomainTools Iris"
+    ],
+    "associatedToAll": false,
     "unmapped": false,
-    "unsearchable": false,
+    "unsearchable": true,
     "caseInsensitive": true,
     "columns": [
         {
